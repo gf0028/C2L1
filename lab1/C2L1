@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Student Name: Guiomar Flores da Silva -->
+    <!-- File Name: template.html -->
+    <meta charset="utf-8">
+    <title>Strike a Chord: Template</title>
+</head>
+<body>
+    <header>
+        <h1>&#9836; Strike a Chord &#9836;</h1>
+    </header>
+    <nav>
+        <p>Home &nbsp; &#9838; &nbsp;  Lessons &nbsp; &#9838; &nbsp; Instructors &nbsp; &#9838; &nbsp; Rentals &nbsp; &#9838; &nbsp; Contact</p>
+    </nav>
+    <main>
+    <p> We provide lessons for several musical instruments, including piano, guitar, and violin. Your first two lessons are FREE. Contact us today to get started!</p>
+    </main>
+    <footer>
+        <p>&copy; Copyright 2021. All Rights Reserved.</p>
+        <p>lessons@strikeachord.net</p>
+    </footer>
+</body>
+</html>
